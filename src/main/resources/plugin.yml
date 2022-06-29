@@ -1,0 +1,5 @@
+name: gerrit-groups
+author: IltisAuge
+version: 1.0-SNAPSHOT
+main: de.iltisauge.gerritgroups.GerritGroupsPlugin
+api-version: 1.16
